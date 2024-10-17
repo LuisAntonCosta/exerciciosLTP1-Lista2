@@ -1,3 +1,5 @@
 # exerciciosLTP1-Lista2
 
-integrantes- Luis Antonio Lustosa de Araujo Costa // Davi de Albuquerque
+Integrantes 
+- Luis Antonio Lustosa de Araujo Costa - 22401677
+- Davi de Albuquerque Chavante- 22406020 
